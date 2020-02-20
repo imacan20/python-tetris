@@ -33,3 +33,5 @@ The following list contains used control keys:
 ## License
 
 This project is licensed under the GNU GPL License - see the [LICENSE.md](LICENSE.md) file for details
+
+[![Run on Repl.it](https://repl.it/badge/github/benycze/python-tetris)](https://repl.it/github/benycze/python-tetris)
