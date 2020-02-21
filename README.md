@@ -2,6 +2,8 @@
 
 This is the repository with non-finished implementation of the tetris. Please, be patient because I am writing it in my free time :-).
 
+[![Run on Repl.it](https://repl.it/badge/github/imacan20/python-tetris)](https://repl.it/github/imacan20/python-tetris)
+
 ### Prerequisites
 
 The game is based on the pygame library. You can install it using the pip tool.
